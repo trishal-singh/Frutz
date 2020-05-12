@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><b>Frutz</b></string>
+    <string name="description"><b>A one stop shop for high quality and delicious fruits</b></string>
+    <string name="contact"><b>contact: abc@xyz.com</b></string>
+</resources>
